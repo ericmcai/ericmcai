@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-cai/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-cai/)
 ### About Me 👋
 
 Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech. I am from Los Angeles, CA, but I currently reside in the Dallas-Forthworth Metroplex. 
@@ -6,8 +6,8 @@ Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Ana
 ### Technologies I'm Learning 📚
 
 #### Languages: 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 #### Editors and Operating Systems:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
