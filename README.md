@@ -1,3 +1,4 @@
+![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-cai/)
 ### About Me 👋
 
 Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech. I am from Los Angeles, CA, but I currently reside in the Dallas-Forthworth Metroplex. 
