@@ -3,7 +3,7 @@
 
 Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech. I am from Los Angeles, CA, but I currently reside in the Dallas-Forthworth Metroplex. 
 
-### Technologies I'm Learning 📚
+### Technologies I'm Learning 🌱
 
 #### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
