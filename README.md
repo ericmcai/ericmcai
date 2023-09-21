@@ -5,7 +5,8 @@ Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Ana
 ### Technologies I'm Learning 📚
 
 #### Software: 
-![Python Logo](https://camo.githubusercontent.com/df3e9ccfc0a9ae3705a8d09a20df137188774d0d4c22cd836a1c3427811461b9/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666376131)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 <!--
