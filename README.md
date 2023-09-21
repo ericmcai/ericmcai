@@ -1,4 +1,5 @@
-![[LinkedIn](https://github.com/ericmcai/ericmcai/assets/110260832/644d6d1d-67a7-4f00-b0f8-4f7798dec867)](https://www.linkedin.com/in/eric-m-cai/)
+![[LinkedIn](![image](https://github.com/ericmcai/ericmcai/assets/110260832/1de7a4a7-c0d5-41b5-b10d-3fb7b236706c)
+)](https://www.linkedin.com/in/eric-m-cai/)
 ### About Me 👋
 
 Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech. I am from Los Angeles, CA, but I currently reside in the Dallas-Forthworth Metroplex. 
