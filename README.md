@@ -1,7 +1,16 @@
-### Hi there 👋
+### About Me 👋
+
+Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech. I am from Los Angeles, CA, but I currently reside in the Dallas-Forthworth Metroplex. 
 
 <!--
 **ericmcai/ericmcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Technologies I'm Learning 📚
+
+#### Software: 
+- Python
+- R
+- SQL
 
 Here are some ideas to get you started:
 
