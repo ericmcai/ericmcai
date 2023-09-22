@@ -13,7 +13,7 @@ I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![R (Statistics)](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+  ![R (Statistics)](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 -  🔧 &nbsp;
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
