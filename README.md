@@ -9,7 +9,7 @@ I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
 - 🌱 &nbsp; Learning more about Statistical Methods and Machine Learning.
 - 🍙 &nbsp; Spending time with my wife, cooking, brewing coffee, and reading! 
 
-### 🧰 Languages and Tools 
+<h3> 🧰 Languages and Tools </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -25,9 +25,11 @@ I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
   ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat-square&logo=rstudio&logoColor=white)
 
-### 🌐 Let's Connect!
+<h3> 🌐 Let's Connect! </h3>
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-cai/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caimeric@gmail.com)
+</p>
 
 <!--
 **ericmcai/ericmcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
