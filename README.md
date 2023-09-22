@@ -12,11 +12,12 @@ I am a former pastor-turned data professional from Los Angeles. 👋🏻
 ### 🧰 Languages and Tools 
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=for-the-badge&logo=R&logoColor=276DC3)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=for-the-badge&logo=rstudio)
 
 ### Let's Connect! 🌐
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-cai/) 
