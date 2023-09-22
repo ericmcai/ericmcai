@@ -28,7 +28,7 @@ I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
 <h3> 🌐 Let's Connect! </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/eric-m-cai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20Cai-blue?style=flat-square&logo=linkedin"></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caimeric@gmail.com)
+<a href="mailto:caimeric@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-caimeric@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
