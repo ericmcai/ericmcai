@@ -1,6 +1,6 @@
 <h2> Hi! I'm Eric.</h2>
 
-I am a former pastor-turned data professional from Los Angeles. 👋🏻
+I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
