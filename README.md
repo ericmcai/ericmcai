@@ -12,12 +12,12 @@ I am a former pastor-turned data professional from Los Angeles. 👋🏻
 ### 🧰 Languages and Tools 
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![R (Statistics)](![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white))
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=white)
+  ![RStudio]([https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=white](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white))
 
 ### Let's Connect! 🌐
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-cai/) 
