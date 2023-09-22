@@ -7,7 +7,7 @@ I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
 - 🤔 &nbsp; Aspiring Data Professional.
 - 🎓 &nbsp; Studying M.S. Analytics at Georgia Tech.
 - 🌱 &nbsp; Learning more about Statistical Methods and Machine Learning.
-- 🍙 &nbsp; Spending time with my wife, cooking, brewing coffee, and reading! 
+- 🍙 &nbsp; Love spending time with my wife, cooking, brewing coffee, and reading! 
 
 <h3> 🧰 Languages and Tools </h3>
 
