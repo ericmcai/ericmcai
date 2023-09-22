@@ -1,7 +1,7 @@
 
 ### About Me 👋
 
-Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech. I am from Los Angeles, CA, but I currently reside in the Dallas-Forthworth Metroplex. I love spending time with my wife, cooking, brewing coffee, and reading! 
+Hi! My name is Eric. I am a 32-year-old former-pastor-turned-M.S. student in Analytics at Georgia Tech🐝. I am from Los Angeles, but I currently reside in the Dallas-Forthworth Metroplex. I love spending time with my wife, cooking, brewing coffee, and reading! 
 
 ### Languages and Tools 🧰
 
