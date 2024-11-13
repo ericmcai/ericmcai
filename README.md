@@ -4,7 +4,7 @@ I am a former-pastor-turned-data-professional from Los Angeles. 👋🏻
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Aspiring Data Professional.
+- 🤔 &nbsp; Data Systems Analyst at The Fuller Foundation.
 - 🎓 &nbsp; Studying M.S. Analytics at Georgia Tech.
 - 🌱 &nbsp; Learning more about Statistical Methods and Machine Learning.
 - 🍙 &nbsp; Love spending time with my wife, cooking, brewing coffee, and reading! 
